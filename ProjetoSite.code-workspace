@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"name": "ProjetoSite",
+			"path": "."
+		},
+		{
+			"name": "css",
+			"path": "../../Downloads/Login_v5/css"
+		},
+		{
+			"name": "vendor",
+			"path": "../../Downloads/Login_v5/vendor"
+		},
+		{
+			"name": "js",
+			"path": "../../Downloads/Login_v5/js"
+		},
+		{
+			"name": "images",
+			"path": "../../Downloads/Login_v5/images"
+		},
+		{
+			"name": "fonts",
+			"path": "../../Downloads/Login_v5/fonts"
+		},
+		{
+			"path": "../../Downloads/Login_v5/.vscode"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ProjetoSite"
+	}
+}
